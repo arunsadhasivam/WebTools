@@ -18,3 +18,11 @@ Tealium:
 
 
 Tealium-Tools-Environment-Switcher/
+
+
+Redirect -proxy:
+===============
+
+Custom Redirects
+
+to map prod url to qa url and test tealium tags in qa to point prod site.
